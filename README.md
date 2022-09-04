@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![image](https://user-images.githubusercontent.com/97019672/188294403-e7a8365c-2981-49a3-bc30-7e187344851e.png)
+<a href="https://app.daily.dev/PhuocHacker"><img src="https://api.daily.dev/devcards/9facc65c73ef4e17aee6b3497f98fa66.png?r=70v" width="400" alt="Phước Hồ's Dev Card"/></a>
