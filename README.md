@@ -1,6 +1,6 @@
 ### Hi there 👋
 <div style="display:flex;justify-content:space-between;align-items:center">
-  <span>advantage : </span><span><img style="width:50px;height:50px" src="https://simpleicons.org/icons/react.svg" /></span>
+  <p>advantage : </p><img style="width:50px;height:50px" src="https://simpleicons.org/icons/react.svg" />
   </div>
 
 <!--
