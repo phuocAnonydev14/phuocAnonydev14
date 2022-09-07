@@ -16,13 +16,12 @@ Here are some ideas to get you started:
 -->
 
 <a href="https://app.daily.dev/PhuocHacker"><img src="https://api.daily.dev/devcards/9facc65c73ef4e17aee6b3497f98fa66.png?r=70v" width="400" alt="Phước Hồ's Dev Card"/></a>
-<br>
+
 <img style="width:50px;height:50px" src="https://simpleicons.org/icons/react.svg" />
 <img style="width:50px;height:50px" src="https://simpleicons.org/icons/react.svg" />
 
 <div style="display:flex;justify-content:space-between">
 <img src="https://media.giphy.com/media/VdlpflcGKRICnFSp2m/giphy.gif" />
 <img src="https://media2.giphy.com/media/ndWoTL57cBAnHIQv9V/giphy.gif?cid=ecf05e47deaf99d8e7cf1c945cfe08f713fd202be8b910e4&rid=giphy.gif&ct=s" />
-<img src="https://media0.giphy.com/media/FTfCgfsDSCWn7UPZTx/200w.webp?cid=ecf05e47hj6s7zwppyptwuo1hsv8cwob31ny4g0umtzobhkh&rid=200w.webp&ct=g" />
 </div>
 
