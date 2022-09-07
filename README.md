@@ -16,5 +16,5 @@ Here are some ideas to get you started:
 -->
 
 <a href="https://app.daily.dev/PhuocHacker"><img src="https://api.daily.dev/devcards/9facc65c73ef4e17aee6b3497f98fa66.png?r=70v" width="400" alt="Phước Hồ's Dev Card"/></a>
-<img style="width:50px,height:50px" src="https://simpleicons.org/icons/react.svg" />
+<img style="width:50px;height:50px" src="https://simpleicons.org/icons/react.svg" />
 
