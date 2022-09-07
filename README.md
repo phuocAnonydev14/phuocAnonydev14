@@ -27,4 +27,5 @@ Here are some ideas to get you started:
 <div>
 <img src="https://media.giphy.com/media/VdlpflcGKRICnFSp2m/giphy.gif" />
 </div>
-<iframe src="https://giphy.com/embed/Vi0Ws3t4JSLOgdkaBq" width="384" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/Alissandra-Sementilli-love-kisses-all-over-Vi0Ws3t4JSLOgdkaBq">via GIPHY</a></p>
+
+https://media2.giphy.com/media/ndWoTL57cBAnHIQv9V/giphy.gif?cid=ecf05e47deaf99d8e7cf1c945cfe08f713fd202be8b910e4&rid=giphy.gif&ct=s
