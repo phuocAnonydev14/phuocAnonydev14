@@ -24,3 +24,6 @@ Here are some ideas to get you started:
 <img style="width:50px;height:50px" src="https://simpleicons.org/icons/react.svg" />
 <img style="width:50px;height:50px" src="https://simpleicons.org/icons/react.svg" />
 
+<div>
+<img src="https://media.giphy.com/media/VdlpflcGKRICnFSp2m/giphy.gif" />
+</div>
