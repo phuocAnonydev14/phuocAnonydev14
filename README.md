@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<a href="https://app.daily.dev/PhuocHacker"><img src="https://api.daily.dev/devcards/9facc65c73ef4e17aee6b3497f98fa66.png?r=70v" width="400" alt="Phước Hồ's Dev Card"/></a>
+<a href="https://app.daily.dev/PhuocHacker123"><img src="https://api.daily.dev/devcards/e6b4f7d319f3431db35601bf63638aec.png?r=8un" width="400" alt="Phước Hồ's Dev Card"/></a>
 
 
 
