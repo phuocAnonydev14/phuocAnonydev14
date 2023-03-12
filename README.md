@@ -2,8 +2,10 @@
 <div style="display:flex;justify-content:space-between;align-items:center">
   <p>advantage : </p>
   <div style="display:flex;justify-content:space-between;align-items:center">
-    + FrontEnd : HTML, CSS, Javascript, Reactjs, NextJs
-    + BackEnd : NodeJs, ExpressJs, Java
+    
+    FrontEnd : HTML, CSS, Javascript, Reactjs, NextJs
+    
+    BackEnd : NodeJs, ExpressJs, Java
   </div>
   </div>
 
