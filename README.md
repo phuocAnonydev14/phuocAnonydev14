@@ -2,8 +2,8 @@
 <div style="display:flex;justify-content:space-between;align-items:center">
   <p>advantage : </p>
   <div style="display:flex;justify-content:space-between;align-items:center">
-    <img style="width:50px;height:50px" src="https://simpleicons.org/icons/react.svg" />
-    <img src="https://cdn-icons-png.flaticon.com/128/8383/8383604.png" />
+    + FrontEnd : HTML, CSS, Javascript, Reactjs, NextJs
+    + BackEnd : NodeJs, ExpressJs, Java
   </div>
   </div>
 
@@ -27,8 +27,5 @@ Here are some ideas to get you started:
 
 
 
-<div style="display:flex;justify-content:space-between">
-<img src="https://media.giphy.com/media/VdlpflcGKRICnFSp2m/giphy.gif" />
-<img src="https://media2.giphy.com/media/ndWoTL57cBAnHIQv9V/giphy.gif?cid=ecf05e47deaf99d8e7cf1c945cfe08f713fd202be8b910e4&rid=giphy.gif&ct=s" />
 </div>
 
