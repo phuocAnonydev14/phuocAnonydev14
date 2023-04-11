@@ -4,9 +4,9 @@
   <p>advantage : </p>
   <div style="display:flex;justify-content:space-between;align-items:center">
     
-    FrontEnd : HTML, CSS, Javascript, Reactjs, NextJs
+    Frontend : HTML, CSS, Javascript, Reactjs, NextJs
     
-    BackEnd : NodeJs, ExpressJs, Java
+    Backend : NodeJs, ExpressJs, Nestjs , Java
   </div>
   </div>
 
