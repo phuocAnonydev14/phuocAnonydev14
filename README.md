@@ -9,7 +9,7 @@
     Backend : NodeJs, ExpressJs, Nestjs , Java
   </div>
   
-  <p>I'm currently working as a fresher Frontend developer in Northstudio company</p>
+  <p>I'm currently working as a fresher Frontend developer in Northstudio corp</p>
   </div>
 
 <!--
