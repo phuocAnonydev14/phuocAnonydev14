@@ -11,7 +11,7 @@
   
   <p>I'm currently working as a fresher Frontend developer in Northstudio corp</p>
   </div>
-
+https://api.githubtrends.io/user/svg/phuocAnonydev14/langs?time_range=one_year&theme=classic
 <!--
 **hophuoc1403/hophuoc1403** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
