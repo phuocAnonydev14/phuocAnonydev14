@@ -34,3 +34,5 @@ Here are some ideas to get you started:
 
 </div>
 
+[![GitHub Trends SVG](https://api.githubtrends.io/user/svg/phuocAnonydev14/langs)](https://githubtrends.io)
+
