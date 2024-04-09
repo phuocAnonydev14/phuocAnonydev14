@@ -10,7 +10,7 @@
   </div>
   ![](https://komarev.com/ghpvc/?username=phuocAnonydev14)
   
-  <p>I'm currently working as a fresher Frontend developer in Northstudio corp</p>
+  <p>I'm currently working as a fresher Frontend developer in Icetea labs corp</p>
   </div>
 <a href="https://app.daily.dev/phuochacker123"><img src="https://api.daily.dev/devcards/e6b4f7d319f3431db35601bf63638aec.png?r=1wx" width="400" alt="Phước Hồ's Dev Card"/></a>
 <!--
