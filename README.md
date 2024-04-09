@@ -8,6 +8,7 @@
     
     Backend : NodeJs, ExpressJs, Nestjs , Java
   </div>
+  ![](https://komarev.com/ghpvc/?username=phuocAnonydev14)
   
   <p>I'm currently working as a fresher Frontend developer in Northstudio corp</p>
   </div>
