@@ -12,7 +12,7 @@
   
   <p>I'm currently working as a fresher Frontend developer in Icetea labs corp</p>
   </div>
-<a href="https://app.daily.dev/phuochacker123"><img src="https://api.daily.dev/devcards/e6b4f7d319f3431db35601bf63638aec.png?r=1wx" width="400" alt="Phước Hồ's Dev Card"/></a>
+<a href="https://app.daily.dev/phuochacker123"><img src="https://api.daily.dev/devcards/v2/EhPreLJ5oh3sNqQh5wEyg.png?type=default&r=n34" width="356" alt="Phước Hồ's Dev Card"/></a>
 <!--
 **hophuoc1403/hophuoc1403** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
