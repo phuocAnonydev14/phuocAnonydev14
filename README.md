@@ -8,9 +8,8 @@
     
     Backend : NodeJs, ExpressJs, Nestjs , Java
   </div>
-  ![](https://komarev.com/ghpvc/?username=phuocAnonydev14)
-  
-  <p>I'm currently working as a fresher Frontend developer in Icetea labs corp</p>
+
+  <p>I'm currently working as a fresher Frontend developer in Icetea Labs</p>
   </div>
 <a href="https://app.daily.dev/phuochacker123"><img src="https://api.daily.dev/devcards/v2/EhPreLJ5oh3sNqQh5wEyg.png?type=default&r=n34" width="356" alt="Phước Hồ's Dev Card"/></a>
 <!--
