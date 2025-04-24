@@ -1,12 +1,12 @@
 # Phuoc Ho
 
-  <p>advantage : </p>
+  <p>advantages : </p>
 <div style="display:flex;justify-content:space-between;align-items:center">
   <div style="display:flex;justify-content:space-between;align-items:center">
     
-    Frontend : HTML, CSS, Javascript, Typescript, Reactjs, NextJs
+    Frontend : Javascript, Typescript, Reactjs, NextJs
     
-    Backend : NodeJs, ExpressJs, Nestjs , Java
+    Backend : NodeJs, ExpressJs, Nestjs, Java, Golang
   </div>
 
   </div>
